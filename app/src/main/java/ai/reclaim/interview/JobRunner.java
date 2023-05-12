@@ -1,7 +1,7 @@
 package ai.reclaim.interview;
 
 public class JobRunner {
-    <J extends Job> void submit(J job) {
+    Job void submit(Job job) {
         //FIXME add implementation
     }
 }
